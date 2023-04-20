@@ -28,7 +28,7 @@ public class SubarraysKDifferent {
                 System.out.print(subarr.get(j) +" " );
 
             System.out.println("["+stari +curi+"]");
-            return ;
+            return   ;
         }
         else{
 
